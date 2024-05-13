@@ -1,6 +1,10 @@
 книга по git:
 <<<<<<< HEAD
+<<<<<<< HEAD
 https://git-scm.com/book/ru/v2123
 =======
 https://git-scm.com/book/ru/v2
 >>>>>>> testing
+=======
+https://git-scm.com/book/ru/v2/
+>>>>>>> parent of b48e325 (url changed)
